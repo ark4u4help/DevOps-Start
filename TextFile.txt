@@ -1,1 +1,20 @@
 Hi Txt file 
+Here we are Doing something with our invironment setup 
+we will try and check the new and faster way how can make new things 
+we will be statrting this thisng with our first and Base Module (kARM) from my virtual machine 
+Starting ..
+            #1 Enginering Concepts 
+            #2 Operating Systems 
+            #3 Data Structure and Algorithms 
+            In starting we choose to go with the latest Model for SDLC
+            That is DevOos and our Repo name is also DevOps-START 
+
+
+What are the Main Fetures or properties we will try to implement Here
+will be depend on the RESOURCES we are going to use.
+
+ We are having three major colud solution provoders like:
+  Amazon web Services
+  Google Cloud Platform 
+  Microsoft Azure
+
