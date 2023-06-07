@@ -1,1 +1,67 @@
-Hi Txt file 
+File Name :
+Date:
+Time{ 01:47 }
+Location : [@ ]
+ARK for arksspb.com
+This is a Second and MOST IMPORTENT file you can see 
+here we are going to See the basic of Infrastructre as a CODE (IasC) using terraform and 
+LLM's and transformars 
+
+AI 
+-> Prepare data 
+  # Acquire 
+  # Filter and pre-process 
+  # Versions and tag
+
+
+-> Train 
+The Best Open Source technology out there to simplfy the user experience.
+ Code Flare :
+        #Ray               #PyTorch 
+                           #Hugging Face 
+        #KubeRay           #TourchX
+        #MCAD
+        #InstaScale
+
+-> Validate 
+   Benchmrks to Evalutate the Model Quality across a wide range of matircs 
+   if passes teh threshhold
+   create a Modle Card for each molde that list all the details of modle 
+   in current secenrio we have many 
+   Genrate a  data structre for this problem in which we have a Name , content and how this model is 
+   trained  
+   {  < ..  . . .  . . .  . . >  }
+
+
+
+-> Tune
+We have many modle avalailble in global Ai community 
+Open AI's Model
+Google Modle 
+IBM Open Model they trained 
+Tune Modle and get the Idal promts to use now model is specialised and ready for use 
+
+and many more that tune the model 
+
+
+-> Deploy 
+   Deploy 
+
+
+Product kARM
+        dARM
+        aARM
+        vARM
+        xARM
+Services
+        WHO
+        ARE 
+        YOU
+        ?
+        ! 
+        .
+
+        Optmize 
+        Be Responsible 
+        PUT Heart 
+        GET Trust
